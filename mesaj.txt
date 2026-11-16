@@ -1,0 +1,1 @@
+Acesta este un fisier demonstrativ stocat in Amazon S3 prin LocalStack.
